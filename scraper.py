@@ -59,7 +59,7 @@ def scrape_and_post():
 
         # Twilio client
     twilio_account_sid = 'AC11650a6322d6a5aa8a88b5f28e9c32d1'
-    twilio_auth_token = '0826c0d6d271224cc774b45705c06e79'
+    twilio_auth_token = 'bfab406c855a7cb13a6aac842accf1bc'
     twilio_phone_number = '+18442241878'
     recipient_phone_number = '+19367775168' #my own phone number
 
